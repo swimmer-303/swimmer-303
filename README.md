@@ -4,6 +4,6 @@ Hi there!👋
 - 👯 I’m looking to collaborate on anything
 - 🤔 I’m looking for help with setting up Stripe
 - 💬 Ask me about nothing unless it is collaborative coding
-- 📫 How to reach me: spencer@spencerhedges.com
+- 📫 How to reach me: spencer@spencerhedges.com / spencerhedges.com/lets-chat
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am still in primary school
