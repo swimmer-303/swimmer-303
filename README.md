@@ -1,16 +1,16 @@
 ## **Howdy**, I’m **Spencer**!
 
-![Profile Views](https://komarev.com/ghpvc/?username=theinfamouscoder5&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=swimmer-303&color=blueviolet)
 
 ## About Me
 
 I'm a passionate developer with a love for coding and creating innovative solutions. Whether it's web applications, backend services, or open-source contributions, I enjoy tackling new challenges and learning new technologies.
 
 - 👀 I’m interested in web & app development
-- 🌱 I’m currently learning **Lua**
-- 📫 You can reach me by sending me a **DM on Discord** (@theinfamouscoder) or making an **issue on this repository**
+- 🌱 I’m currently learning **Twilio**
+- 📫 You can reach me by sending me a **DM on Discord** (@spencer_dev)
 - 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I'm heavily interested in aviation and have flown a **Cessna 182**
+- ⚡ Fun fact: I'm heavily interested in aviation
 
 ### My Coding, Programming, and Scripting Languages (and markup)
 
