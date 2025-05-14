@@ -41,11 +41,11 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theinfamouscoder5&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swimmer-303&show_icons=true&theme=radical)
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theinfamouscoder5&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swimmer-303&layout=compact&theme=radical)
 
 ## Projects
 
