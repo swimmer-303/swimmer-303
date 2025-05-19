@@ -17,12 +17,8 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](#)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 
 ### Frameworks & Runtime Enviroments I Use
 
@@ -37,7 +33,6 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
-[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](#)
 
 ## GitHub Stats
 
@@ -49,9 +44,6 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 
 ## Projects
 
-Here are a few projects I've worked on:
-
-- [**Cody's Shack**](https://codys-shack-private.onrender.com/) - An online gaming platform (still HEAVILY in development)
 
 ## Connect with Me
 
