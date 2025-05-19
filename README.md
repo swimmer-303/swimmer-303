@@ -42,10 +42,7 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swimmer-303&layout=compact&theme=radical)
 
-## Projects
-
-
 ## Connect with Me
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/mgvMCtw5)
-[![Personal Website](https://img.shields.io/badge/-Website-333?style=flat&logo=google-chrome)](https://cody.is-a.dev)
+[![Personal Website](https://img.shields.io/badge/-Website-333?style=flat&logo=google-chrome)](https://spencerhedges.com)
