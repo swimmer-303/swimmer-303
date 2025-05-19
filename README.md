@@ -17,7 +17,7 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
 
 ### Frameworks & Runtime Enviroments I Use
