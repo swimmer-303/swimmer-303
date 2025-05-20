@@ -44,5 +44,5 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 
 ## Connect with Me
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.gg/mgvMCtw5)
+<!---[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/MY_USERID)--->
 [![Personal Website](https://img.shields.io/badge/-Website-333?style=flat&logo=google-chrome)](https://spencerhedges.com)
