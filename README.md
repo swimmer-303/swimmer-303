@@ -7,7 +7,7 @@
 I'm a passionate developer with a love for coding and creating innovative solutions. Whether it's web applications, backend services, or open-source contributions, I enjoy tackling new challenges and learning new technologies.
 
 - 👀 I’m interested in web & app development
-- 🌱 I’m currently learning **Twilio**
+- 🌱 I’m currently learning **DigitalOcean**
 - 📫 You can reach me by sending me a **DM on Discord** (@spencer_dev)
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: I'm heavily interested in aviation
@@ -45,5 +45,4 @@ I'm a passionate developer with a love for coding and creating innovative soluti
 
 ## Connect with Me
 
-<!---[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/MY_USERID)--->
-[![Personal Website](https://img.shields.io/badge/-Website-333?style=flat&logo=google-chrome)](https://spencerhedges.com)
+[![Spencer Hedges](https://img.shields.io/badge/-Website-333?style=flat&logo=google-chrome)](https://spencerhedges.com)
