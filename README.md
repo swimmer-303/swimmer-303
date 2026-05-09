@@ -1,48 +1,58 @@
-## **Hey**, I’m **Spencer**!
+# Hi, I'm Spencer Hedges 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=swimmer-303&color=blueviolet)
+### Web & app developer · Privacy-focused software · [spencerhedges.com](https://spencerhedges.com)
+
+[![Website](https://img.shields.io/badge/spencerhedges.com-Visit-blueviolet?style=flat&logo=google-chrome&logoColor=white)](https://spencerhedges.com)
+[![Followers](https://img.shields.io/github/followers/swimmer-303?label=Follow&style=social)](https://github.com/swimmer-303)
 
 ## About Me
 
-I'm a passionate developer with a love for coding and creating innovative solutions. Whether it's web applications, backend services, or open-source contributions, I enjoy tackling new challenges and learning new technologies.
+I'm **Spencer Hedges** — a developer building web and mobile applications with a focus on privacy-focused software and self-hosted infrastructure. You can see my full portfolio, projects, and writing at **[spencerhedges.com](https://spencerhedges.com)**.
 
-- 👀 I’m interested in web & app development
-- 🌱 I’m currently learning **DigitalOcean**
-- 📫 You can reach me by sending me a **DM on Discord** (@spencer_dev)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: I'm heavily interested in aviation
+My main project right now is **Hanasu**, a privacy-focused Discord alternative built on Next.js and Node.js. Outside of the keyboard I'm into aviation (running my own ADS-B / RTL-SDR receiver feeding FlightRadar24), RC planes, tennis, and Minecraft server administration.
 
-### My Coding, Programming, and Scripting Languages (and markup)
+- 🌐 Portfolio, projects & blog → **[spencerhedges.com](https://spencerhedges.com)**
+- 💬 Building **Hanasu**, a privacy-focused chat platform
+- 👀 Interested in web & app development, networking, and security research
+- 🌱 Currently going deeper on **DigitalOcean** and Cloudflare infrastructure
+- ✈️ Fun fact: heavily into aviation — I run an ADS-B receiver feeding FlightRadar24
+- 📫 Reach me on Discord (`@spencer_dev`) or through [spencerhedges.com](https://spencerhedges.com)
+- 😄 Pronouns: He/Him
+
+### Languages
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 [![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?logo=lua&logoColor=white)](#)
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat&logo=swift&logoColor=white)
 
-### Frameworks & Runtime Enviroments I Use
+### Frameworks & Runtimes
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0066CC?style=flat&logo=swift&logoColor=white)
 
-### Tools I Use
+### Tools & Infrastructure
 
-![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+[![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=flat&logo=visualstudiocode&logoColor=white)](#)
 [![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](#)
 [![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white)](#)
+[![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
-[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+![Firestore](https://img.shields.io/badge/Firestore-FFA000?style=flat&logo=firebase&logoColor=white)
 
-## GitHub Stats
+## Connect
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=swimmer-303&show_icons=true&theme=radical)
+[![Website](https://img.shields.io/badge/spencerhedges.com-333?style=flat&logo=google-chrome&logoColor=white)](https://spencerhedges.com)
+[![GitHub](https://img.shields.io/badge/GitHub-swimmer--303-181717?style=flat&logo=github&logoColor=white)](https://github.com/swimmer-303)
 
-## Top Languages
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=swimmer-303&layout=compact&theme=radical)
-
-## Connect with Me
-
-[![Spencer Hedges](https://img.shields.io/badge/-Website-333?style=flat&logo=google-chrome)](https://spencerhedges.com)
+⭐ More of my work, writing, and projects lives at **[spencerhedges.com](https://spencerhedges.com)** — that's the best place to find me.
